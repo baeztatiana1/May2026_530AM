@@ -1,0 +1,80 @@
+package firstpkg;
+
+public class MathOperation 
+{
+	
+	
+	
+			public int sum()
+			{
+		int a=20;
+		int b=30;
+		int c = a+b;
+		System.out.println("sum of 2 numbers: " + c);
+		
+			float d= 20.5f;
+		
+			String e="Java";
+		
+		return a;
+		
+		
+			
+			}
+	
+     
+	public int addition(int a, int b)
+			{
+	     int c=a+b;
+	     
+	System.out.println("addition of 2 numbers: " + c);
+	return c;
+			}
+	
+
+	
+	
+	public void substraction ( int a, int b)
+	{
+		int c =a-b; 
+		System.out.println("substraction of 2 numbers: " + c);
+	}
+	
+	
+
+	
+	public static void main(String[] args) 
+			{
+	   MathOperation mo=new MathOperation ();//instance of the object of the class "MathOperation"
+	   mo.addition(20,30); 
+	   mo.substraction (40,60);
+	   mo.addition(10, 10);
+	   mo.addition(5, 5);
+	    
+	  int y= mo.addition(40,50);
+	  System.out.println(y);
+	  mo.addition(y, 60);
+	  
+	  mo.substraction(y, 30);
+	  mo.addition(40, 60);
+	
+	  
+	  
+	   
+	   
+	   float z= mo.sum();
+	   System.out.println(z);
+	   
+	   
+	   int f=mo.sum();
+	   System.out.println(f);
+	 
+	   mo.addition(y, f);
+	   
+}
+	
+
+
+	
+
+ }

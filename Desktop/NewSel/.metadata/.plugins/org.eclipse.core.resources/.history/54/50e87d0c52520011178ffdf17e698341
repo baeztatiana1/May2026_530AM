@@ -1,0 +1,20 @@
+package firstpkg;
+
+public class Cars 
+{
+char a=bmw;
+
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args)
+	{
+		
+
+	}
+
+}

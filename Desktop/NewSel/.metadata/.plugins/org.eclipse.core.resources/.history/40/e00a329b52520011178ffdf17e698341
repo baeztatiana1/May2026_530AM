@@ -1,0 +1,21 @@
+package firstpkg;
+
+public class Cars 
+{
+string a= "bmw";
+string b= "honda";
+
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args)
+	{
+		
+
+	}
+
+}

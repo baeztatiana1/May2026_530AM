@@ -1,0 +1,28 @@
+package firstpkg;
+
+public class Calculator 
+{
+
+	int a=20;
+	int b=30;
+	
+	public void sum()
+	{
+		int c= a+b; //50
+		System.out.println(c);
+	}
+	
+	public static void main(String[] args) 
+	{
+		
+		Calculator  cal= new Calculator (); // cal is called object of the class
+		
+		cal.sum();
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,32 @@
+package firstpkg;
+
+public class Cars 
+{
+	
+	String brand bmw; 
+
+	
+	
+	
+      int a=2025;
+      int b=2026;
+      int c=2027;
+
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args)
+	{
+		
+		
+		
+		
+		
+
+	}
+
+}

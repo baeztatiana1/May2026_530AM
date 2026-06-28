@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/tatianab/Desktop/NewSel/.metadata/.plugins/org.eclipse.jdt.core
+2974609057.index
+3637623006.index
+1865797976.index

@@ -1,0 +1,27 @@
+package firstpkg;
+
+
+
+public class Aboutme 
+{
+
+
+      
+	
+	public static void main(String[] args) 
+	{
+		String name="Taty";
+	      int Age= 39;
+	      int Favoritenumber = 30;
+	      boolean likescoffee = true;
+       
+        System.out.println(name);
+        System.out.println(Age);
+        System.out.println(Favoritenumber);
+        System.out.println(likescoffee);
+        
+		
+
+	}
+
+}

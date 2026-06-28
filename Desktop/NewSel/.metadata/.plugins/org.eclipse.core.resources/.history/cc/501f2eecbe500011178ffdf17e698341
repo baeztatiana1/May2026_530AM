@@ -1,0 +1,44 @@
+package firstpkg;
+
+public class Calculator 
+{
+
+	int a=20;
+	int b=30;
+	
+	public void sum()
+	{
+		int c= a+b; //50
+		System.out.println(c);
+	}
+	
+	
+	public void mul()
+	{
+		int c=a*b;
+		System.out.println(c);
+		
+		System.out.println(a+b); //50
+		
+		System.out.println(("a"+ b); //30
+		
+		System.out.println("a"+"b"); //ab
+	}
+	
+	
+	public static void main(String[] args) 
+	{
+		
+		Calculator  cal= new Calculator (); // cal is called object of the class
+		
+		cal.sum();
+		cal.mul();
+		
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,30 @@
+package firstpkg;
+
+public class Car 
+{
+	String a="bmw";
+	String  b="toyota";
+	String c="honda";
+	int d=2024;
+	int e=2025;
+	int f=2026;
+	
+	
+	
+	public void print_date()
+	{
+	System.out.println(a);
+    System.out.println(b);
+    
+	
+	
+	
+	public static void main(String[] args) 
+	{
+	
+		
+        
+
+	}
+
+}

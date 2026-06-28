@@ -1,0 +1,29 @@
+package firstpkg;
+
+public class Jibendraclass 
+{
+
+	public void isEven(int num1) 
+	{
+	}
+	{
+		boolean num1;
+		if (num1 % 2=0;
+		{
+	
+	System.out.println("The number is even.");
+	{
+	
+	
+	
+	
+	System.out.println("The number is odd.");
+		}
+	public static void main(String[] args)
+	{
+		Jibendraclass even=new Jibendraclass ();
+         even.isEven(1);
+		
+	}
+
+}

@@ -1,0 +1,34 @@
+package firstpkg;
+
+
+
+
+
+public class Car 
+
+{
+string brand;
+string model;
+int year;
+
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) 
+	
+	{
+		car car1= new car();
+		
+		car1 brand="BMW";
+		car1.model="X5";
+		car.year=2025;
+		
+		System.out.println(car1. brand);
+        System.out.println(car1.model);
+        
+	}
+
+}

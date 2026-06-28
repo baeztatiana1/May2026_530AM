@@ -1,0 +1,22 @@
+package firstpkg;
+
+public class Cars 
+{
+	
+      string char a= "bmw";
+      string char= b= "honda";
+
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args)
+	{
+		
+
+	}
+
+}

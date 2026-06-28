@@ -1,0 +1,39 @@
+package firstpkg;
+
+public class Calculator 
+{
+	
+	int a=20;
+	int b=30;
+	
+	
+    
+	
+	public void sum()
+	{
+		int c=a+b;
+		System.out.println(c);
+		System.out.println(a+b);
+		
+		System.out.println("a" +b);
+		System.out.println("a" + "b");
+		
+	}
+	public void mul ()
+	{
+		int c=a*b;
+		System.out.println(c);
+	}
+	
+	public static void main(String[] args) 
+	{
+	
+	
+		Calculator call=new Calculator(); 
+		
+		call.sum();
+		call. mul();
+		
+	}
+
+}

@@ -1,0 +1,29 @@
+package oopsconcept; //package name
+
+public class QA2 extends QA1             //class
+{
+
+	
+	public void subs(int a, int b)// Method 
+	{
+		int c =a-b;
+		System.out.println("sum of 2 numbers: " + c);
+	}
+	
+	
+
+	
+	public static void main(String[] args)// Main method 
+	{
+		QA2 q2=new QA2();              // object of the class
+		q2.subs(20,30);             //what you want called in the console 
+		q2.sum(20, 30);
+		
+		
+		
+		//QA1 abc=new QA1();          //needs to have object of the QA1 class
+		//abc.sum(20,30);
+
+	}
+
+}

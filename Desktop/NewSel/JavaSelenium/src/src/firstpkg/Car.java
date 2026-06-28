@@ -1,0 +1,60 @@
+package firstpkg;
+
+
+
+public class Car 
+
+{
+     String brand;
+     String model;
+     int year;
+
+	
+
+	
+	public static void main(String[] args)  
+	
+	{
+		Car car1= new Car();
+		
+		car1. brand="BMW";
+		car1.model="X5";
+		car1.year=2025;
+		
+		System.out.println(car1. brand);
+        System.out.println(car1.model);
+        System.out.println(car1.year);
+        
+        Car car2=new Car();
+        
+        car2.brand="Honda";
+        car2.model="Highlander";
+        car2.year= 2024;
+        
+        
+        System.out.println(car2.brand);
+        System.out.println(car2.model);
+        System.out.println(car2.year);
+        
+        Car car3=new Car();
+        
+        car3.brand="Toyota";
+        car3.model="Accord";
+        car3.year=2026;
+        
+        
+        System.out.println(car3.brand);
+        		System.out.println(car3.model);
+        		System.out.println(car3.year);
+        		
+        		
+        		
+        		
+        
+        
+        
+        
+        
+	}
+
+}

@@ -1,0 +1,34 @@
+package firstpkg;
+
+import java.awt.SystemColor;
+
+public class Aboutme 
+{
+
+	String name="Taty";
+      int Age= 39;
+      int Favoritenumber = 30;
+      boolean likescoffee = true;
+      
+      
+      
+	
+	
+	
+	public static void main(String[] args) 
+	{
+		String name="Taty";
+	      int Age= 39;
+	      int Favoritenumber = 30;
+	      boolean likescoffee = true;
+       
+        System.out.println(name);
+        System.out.println(age);
+        System.out.println(favoritenumber);
+        System.out.println(likesCoffee);
+        
+		
+
+	}
+
+}

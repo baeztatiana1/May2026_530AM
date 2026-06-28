@@ -1,0 +1,30 @@
+package firstpkg;
+
+import java.awt.SystemColor;
+
+public class FourthJavaProgram {
+
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args)
+	{
+		
+		System.out.println("welcome to java");
+		
+		System.out.println("hello");
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}

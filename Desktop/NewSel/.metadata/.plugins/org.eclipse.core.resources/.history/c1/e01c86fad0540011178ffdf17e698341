@@ -1,0 +1,24 @@
+package oopsconcept; //package name
+
+public class QA2 //class
+{
+
+	
+	public void sum(int a, int b)// Method 
+	{
+		int c =a+b;
+		System.out.println("sum of 2 numbers: " + c);
+	}
+	
+	
+
+	
+	public static void main(String[] args)// Main method 
+	{
+		QA2 q1=new QA2(); // object of the class
+		q1.sum(20,30);//what you want called in the console 
+		
+
+	}
+
+}

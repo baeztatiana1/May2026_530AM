@@ -1,0 +1,34 @@
+package firstpkg;
+
+public class Cars 
+{
+	
+	string bmw; 
+	
+	
+	
+
+	
+	
+	
+ 
+
+	
+	
+	
+	
+}
+	
+	
+	public static void main(String[] args)
+	{
+		System.out.println("brand:" + brand);
+		
+		
+		
+		
+		
+
+	}
+
+}

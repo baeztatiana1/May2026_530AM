@@ -1,0 +1,30 @@
+package oopsconcept;
+
+import java.awt.print.Book;
+
+public class Books 
+
+{
+	String title;
+	String Author;
+	
+	Books(String title, String author)
+	{
+		this.title= title;
+		this.Author= author;
+	}
+	
+	void titleandauthor()
+	{
+		System.out.println("Atomic Habits:"+ title);
+		System.out.println("James Clear:"+ Author);
+	}
+	
+
+	public static void main(String[] args)
+	
+	{
+
+	}
+
+}

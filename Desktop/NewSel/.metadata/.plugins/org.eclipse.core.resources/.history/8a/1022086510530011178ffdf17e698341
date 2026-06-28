@@ -1,0 +1,40 @@
+package firstpkg;
+
+
+
+public class Aboutme 
+{
+
+
+      
+	
+	private static final String True = null;
+
+	public static void main(String[] args) 
+	{
+		String name="Taty";
+	      int Age= 39;
+	      int Favoritenumber = 30;
+	      boolean Likescoffee = true;
+       
+        System.out.println(name);
+        System.out.println(Age);
+        System.out.println(Favoritenumber);
+        System.out.println(Likescoffee);
+        
+		name="Taty";
+		Age=39;
+		Favoritenumber=30;
+		Likescoffee=true;
+		
+		System.out.println("My name is "+ name );
+		System.out.println(" Iam" + Age);
+		System.out.println("my favorite number is " + Favoritenumber );
+		System.out.println("and I like coffee " + Likescoffee);
+		
+		
+		
+
+	}
+
+}
